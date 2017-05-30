@@ -1,1 +1,2 @@
 # MyVSCode
+Hello from VSCode
